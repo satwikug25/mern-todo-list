@@ -12,8 +12,10 @@ N-Node.js
 # Running the backend server
 
 cd server
+
 node index.js
 
 # Running the frontend
 cd vite-project
+
 npm run dev
